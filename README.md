@@ -1,10 +1,12 @@
 # stock-prediction
 ## Python based application for comparing stock prediction between ML model (ARIMA) and DL model (LSTM)
-Streamlit – GUI
-Keras + Tensorflow – LSTM, RNN
-Statsmodels – ARIMA
-Scikit Learn – Error Calculation
-Matplotlib – Visualisaiton
+### Streamlit – GUI
+### Keras + Tensorflow – LSTM, RNN
+### Statsmodels – ARIMA
+### Scikit Learn – Error Calculation
+### Matplotlib – Visualisaiton
+
+## STREAMLIT GUI OUTPUT
 
 ![image](https://user-images.githubusercontent.com/104378444/171459712-f2cc3d68-0bb0-4fc5-a8b2-25be098f9746.png)
 ![image](https://user-images.githubusercontent.com/104378444/171459757-8c4bbcf2-013a-42ae-b106-984675fcc374.png)
